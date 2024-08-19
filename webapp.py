@@ -131,4 +131,4 @@ def register():
     return render_template('login.html', msg=msg)
 
 if __name__ == '__main__':
-   app.run()
+   app.run(port=5000)
