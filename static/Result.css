@@ -1,0 +1,97 @@
+
+
+.mac-book-air-1 .pie-chart {
+  box-shadow: inset 27px -27px 27px 0px rgba(165, 165, 165, 0.1), inset -27px 27px 27px 0px rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(27px);
+  background: rgba(217, 217, 217, 0.641);
+  margin-right: 7px;
+  width: 464px;
+  height: 345px;
+}
+.mac-book-air-1 .funnel-chart {
+  box-shadow: inset 27px -27px 27px 0px rgba(165, 165, 165, 0.1), inset -27px 27px 27px 0px rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(27px);
+  background: rgba(217, 217, 217, 0.641);
+  width: 464px;
+  height: 345px;
+}
+.mac-book-air-1 .container {
+  margin: 0 0 12px 5px;
+  display: flex;
+  flex-direction: row;
+  width: 935px;
+  box-sizing: border-box;
+}
+.mac-book-air-1 .review {
+  box-shadow: inset 44px -44px 44px 0px rgba(165, 165, 165, 0.1), inset -44px 44px 44px 0px rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(44px);
+  background: rgba(217, 217, 217, 0.641);
+  width: 940px;
+  /* height: 367px; */
+  
+}
+.mac-book-air-1 .container-1 {
+  margin: -30px 15px 9px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 940px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.mac-book-air-1 .sideeff {
+  box-shadow: inset 33.4px -33.4px 33.4px 0px rgba(165, 165, 165, 0.1), inset -33.4px 33.4px 33.4px 0px rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(33.4px);
+  background: rgba(217, 217, 217, 0.641);
+  margin-top: -30px;
+  height: 755px;
+  overflow: auto;
+}
+.mac-book-air-1 {
+  display: flex;
+  flex-direction: row;
+  padding: 84px 24px 15px 25px;
+  width: auto;
+  box-sizing: border-box;
+}
+
+.main{
+  display: flex;
+  flex-direction: column;
+  /* background: rgba(69, 209, 252, 0.48); */
+  background-image: url("analysepage.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: cover;
+  display: flex;
+  margin: 0 0 0 0;
+  overflow: auto;
+}
+.navi{
+  display: flex;
+}
+ul{
+  list-style: none;
+  display: flex;
+  justify-content: end;
+  margin-right: 5%;
+  gap: 10px;
+  width: 100%;
+}
+
+li a{
+  text-decoration: none;
+  font-size: 30px;
+  border-radius: 5px;
+  padding: 3px 10px;
+  background-color:  rgb(82, 82, 193);
+  color: white;
+}
+.sideeff {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 500px; /* Adjust as needed */
+  height: 400px; /* Adjust as needed */
+  display: flex;
+  flex-direction: column;
+}
