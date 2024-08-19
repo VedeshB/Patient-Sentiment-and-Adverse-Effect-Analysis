@@ -1,0 +1,7 @@
+flask
+os
+beautifulsoup4
+groq
+textblob
+praw
+pymongo
