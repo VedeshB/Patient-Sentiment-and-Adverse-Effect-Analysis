@@ -38,7 +38,6 @@ pydantic_core
 pygame
 pymongo
 pyparsing
-pypiwin32
 python-dateutil
 pyttsx3
 pytz
