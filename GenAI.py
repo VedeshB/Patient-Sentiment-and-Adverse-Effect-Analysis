@@ -1,6 +1,6 @@
 from groq import Groq
 def genai(initial):
-    client = Groq(api_key="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")
+    client = Groq(api_key="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")
     chat_completion = client.chat.completions.create(
         messages=[
                 {
